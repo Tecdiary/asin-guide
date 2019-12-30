@@ -1,0 +1,14 @@
+{
+    "name": "asin-guide",
+    "version": "1.0.0",
+    "description": "##### ASIN is a modern, lightweight & fully responsive multi-purpose one page HTML template with flexibility to fit on any screen size. It's built with CSS Grid and has no extra files, code & styling.",
+    "devDependencies": {
+        "vuepress": "^1.2.0"
+    },
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "author": "",
+    "license": "ISC"
+}
